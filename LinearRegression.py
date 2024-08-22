@@ -31,4 +31,5 @@ plt.show()
 # r is for Relationship
 # This tells you the relationship between the x and y
 # The value for r can be between -1 and 1 or 0 where 0 means no relation and -1 and 1 mean relation
+
 # Once you have gathered the information using the stats.linregress method
